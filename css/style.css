@@ -1,0 +1,21 @@
+#menus a{color: black;
+    font-size: 30px;}
+    #nav{
+        position: absolute;
+        bottom: 10px;
+        left: 220px;
+        font-size: 40px;
+    }
+    #nav li{
+        display: inline;
+        margin-left: 30px;
+    }
+    nav li a{color: grey;}
+    
+    #instagram a{color:black;
+    font-size: 15px;}
+    
+    span {
+        color: black;
+    }
+    
